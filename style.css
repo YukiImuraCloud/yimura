@@ -93,7 +93,7 @@ a:hover {
     box-shadow: 0 5px 20px rgba(0,0,0,0.2);
 }
 
-h1 {
+.container h1 {
     color: #0077b6;
 }
 
@@ -101,17 +101,46 @@ h1 {
     border-left: 8px solid #0077b6;
     padding-left: 15px;
     color: #0077b6;
-    margin-top: 40px;
+    margin-top: 50px;
+    margin-bottom: 25px;
 }
 
 .timeline {
     list-style: none;
     padding: 0;
+    margin: 0;
+    position: relative;
+}
+
+.timeline::before {
+    content: "";
+    position: absolute;
+    left: 14px;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: #90e0ef;
 }
 
 .timeline li {
-    margin-bottom: 18px;
-    line-height: 1.8;
+    position: relative;
+    margin-left: 40px;
+    margin-bottom: 25px;
+    padding: 15px 20px;
+    background: #f8fcff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.timeline li::before {
+    content: "";
+    position: absolute;
+    left: -33px;
+    top: 22px;
+    width: 12px;
+    height: 12px;
+    background: #0077b6;
+    border-radius: 50%;
 }
 
 .period {
@@ -120,10 +149,33 @@ h1 {
 }
 
 .lab-box {
-    background: #f4f9fc;
+    background: white;
+    border: 1px solid #d7e9f3;
     border-left: 6px solid #0077b6;
-    padding: 15px;
+    padding: 20px;
     margin-bottom: 20px;
-    border-radius: 8px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+    transition: transform 0.2s;
 }
 
+.lab-box:hover {
+    transform: translateY(-2px);
+}
+
+.page-header {
+    text-align: center;
+    color: white;
+    padding: 50px 20px 30px;
+}
+
+.page-header h1 {
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.page-header p {
+    font-size: 1.1rem;
+    opacity: 0.95;
+}
