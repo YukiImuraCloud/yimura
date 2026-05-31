@@ -3,3 +3,16 @@ body {
     text-align: center;
     margin-top: 50px;
 }
+#news {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#news ul {
+    line-height: 1.8;
+}
+
+#news li {
+    margin-bottom: 12px;
+}
