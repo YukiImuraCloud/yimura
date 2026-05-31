@@ -251,3 +251,8 @@ a:hover {
     border-radius: 12px;
     margin-right: 8px;
 }
+
+.lab-box p {
+    margin: 0 0 12px 0;
+    line-height: 1.8;
+}
