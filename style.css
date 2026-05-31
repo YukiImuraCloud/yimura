@@ -225,3 +225,18 @@ a:hover {
     font-size: 0.85em;
     font-weight: bold;
 }
+
+.award-list {
+    list-style: none;
+    padding: 0;
+}
+
+.award-list li {
+    background: #f8fcff;
+    border-left: 5px solid #0077b6;
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    line-height: 1.8;
+}
