@@ -256,3 +256,11 @@ a:hover {
     margin: 0 0 12px 0;
     line-height: 1.8;
 }
+
+.research-box {
+    background: linear-gradient(135deg, #f8fcff, #ffffff);
+    border-left: 6px solid #0077b6;
+    padding: 22px;
+    border-radius: 12px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
