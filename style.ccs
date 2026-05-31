@@ -48,3 +48,35 @@ background: rgba(255,255,255,0.2);
     font-weight:bold;
     text-decoration:underline;
 }
+
+.profile-container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:40px;
+    flex-wrap:wrap;
+}
+
+.profile-photo{
+    width:220px;
+    height:220px;
+    object-fit:cover;
+    border-radius:50%;
+    border:6px solid white;
+    box-shadow:0 5px 20px rgba(0,0,0,0.3);
+}
+
+.profile-text{
+    text-align:left;
+}
+
+.profile-text h1{
+    margin:0;
+    font-size:3em;
+}
+
+.profile-text p{
+    margin-top:15px;
+    font-size:1.3em;
+    line-height:1.6;
+}
