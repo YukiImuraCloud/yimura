@@ -180,3 +180,48 @@ a:hover {
     font-size: 1.1rem;
     opacity: 0.95;
 }
+
+.publication-list {
+    list-style: none;
+    padding: 0;
+}
+
+.publication-list li {
+    background: #f8fcff;
+    border-left: 5px solid #0077b6;
+    border-radius: 10px;
+    padding: 18px 22px;
+    margin-bottom: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    line-height: 1.8;
+}
+
+.me {
+    font-weight: bold;
+    color: #005f99;
+}
+
+.publication-list a {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 4px 12px;
+    background: #0077b6;
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 0.9em;
+}
+
+.publication-list a:hover {
+    background: #005f99;
+    text-decoration: none;
+}
+
+.status-review {
+    background: #fff3cd;
+    color: #856404;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: bold;
+}
