@@ -3,7 +3,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>私のホームページ</title>
+<title>氏名 | Home</title>
 
 <style>
 body {
@@ -11,6 +11,38 @@ body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #0f4c81, #00a8e8, #90e0ef);
     color: #333;
+}
+
+nav {
+    background: rgba(0,0,0,0.25);
+    backdrop-filter: blur(10px);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.menu li {
+    margin: 0;
+}
+
+.menu a {
+    display: block;
+    padding: 18px 35px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu a:hover {
+    background: rgba(255,255,255,0.2);
 }
 
 header {
@@ -29,7 +61,7 @@ header p {
 }
 
 #news {
-    max-width: 1000px;
+    max-width: 1100px;
     margin: 40px auto;
     background: rgba(255,255,255,0.95);
     padding: 30px;
@@ -53,7 +85,6 @@ header p {
 
 a {
     color: #0077b6;
-    text-decoration: none;
 }
 
 a:hover {
@@ -65,12 +96,20 @@ a:hover {
 
 <body>
 
+<nav>
+    <ul class="menu">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="publications.html">研究業績</a></li>
+    </ul>
+</nav>
+
 <header>
     <h1>氏名</h1>
     <p>JAXA / Earth Observation Research</p>
 </header>
 
 <section id="news">
+
 <h2>News</h2>
 
 <ul>
@@ -107,6 +146,20 @@ a:hover {
 
 <li><strong>2023/8/16-25</strong> California州 Pasadena NASA JPLで開催された「NASA Summer School on Satellite Observations and Climate Models」に選抜・参加しました。
 <a href="https://climatesciences.jpl.nasa.gov/events/summer-school/archive/index.html" target="_blank">詳細</a>
+</li>
+
+<li><strong>2023/6/27</strong> 東大AORIで開催された「The 2023 University Allied Workshop on Climate and Extreme Weather」でポスター発表を行いました。</li>
+
+<li><strong>2023/3/27</strong> 静岡修善寺で開催された「ICCP-GSRA Workshop 2023 jointly with The 2nd EarthCARE Modeling Workshop」でポスター発表を行いました。</li>
+
+<li><strong>2023/3/17</strong> オンライン開催された「エアロゾル・雲・降水に関する研究集会」で口頭発表を行いました。</li>
+
+<li><strong>2022/11/22</strong> 日本気象学会2022年度秋季大会 松野賞を受賞しました。
+<a href="https://www.metsoc.jp/2022/11/22/30577" target="_blank">詳細</a>
+</li>
+
+<li><strong>2022/10/27</strong> 主著論文がJAMESに出版されました。
+<a href="https://doi.org/10.1029/2022MS003046" target="_blank">DOI</a>
 </li>
 
 </ul>
