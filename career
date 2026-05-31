@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<title>経歴</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:linear-gradient(135deg,#0f4c81,#00a8e8,#90e0ef);
+    color:#333;
+}
+
+nav{
+    background:rgba(0,0,0,0.25);
+    backdrop-filter:blur(10px);
+    position:sticky;
+    top:0;
+}
+
+.menu{
+    list-style:none;
+    margin:0;
+    padding:0;
+    display:flex;
+    justify-content:center;
+}
+
+.menu a{
+    display:block;
+    padding:18px 35px;
+    color:white;
+    text-decoration:none;
+    font-weight:bold;
+}
+
+.menu a:hover{
+    background:rgba(255,255,255,0.2);
+}
+
+.container{
+    max-width:1100px;
+    margin:40px auto;
+    background:rgba(255,255,255,0.95);
+    padding:40px;
+    border-radius:15px;
+    box-shadow:0 5px 20px rgba(0,0,0,0.2);
+}
+
+h1{
+    color:#0077b6;
+}
+
+h2{
+    border-left:8px solid #0077b6;
+    padding-left:15px;
+    color:#0077b6;
+    margin-top:40px;
+}
+
+.timeline{
+    list-style:none;
+    padding:0;
+}
+
+.timeline li{
+    margin-bottom:18px;
+    line-height:1.8;
+}
+
+.period{
+    font-weight:bold;
+    color:#0077b6;
+}
+
+.lab-box{
+    background:#f4f9fc;
+    border-left:6px solid #0077b6;
+    padding:15px;
+    margin-bottom:20px;
+    border-radius:8px;
+}
+
+a{
+    color:#0077b6;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+</style>
+
+</head>
+
+<body>
+
+<nav>
+<ul class="menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="career.html">経歴</a></li>
+<li><a href="publications.html">研究業績</a></li>
+<li><a href="presentations.html">学会発表</a></li>
+<li><a href="others.html">その他</a></li>
+</ul>
+</nav>
+
+<div class="container">
+
+<h1>経歴</h1>
+
+<h2>学歴・職歴</h2>
+
+<ul class="timeline">
+
+<li>
+<span class="period">2024年04月－現在</span><br>
+国立研究開発法人 宇宙航空研究開発機構（JAXA） 第一宇宙技術部門
+</li>
+
+<li>
+<span class="period">2022年04月－2024年03月</span><br>
+東京大学（大気海洋研究所） 理学系研究科 地球惑星科学専攻 修士課程
+</li>
+
+<li>
+<span class="period">2018年04月－2022年03月</span><br>
+岡山大学 理学部 地球科学科 学士課程
+</li>
+
+<li>
+<span class="period">2016年04月－2018年03月</span><br>
+静岡県立浜松西高等学校 普通科
+</li>
+
+</ul>
+
+<h2>所属研究室・研究機関</h2>
+
+<div class="lab-box">
+<b>岡山大学 雲物理気候学研究室（道端拓朗 准教授）</b><br>
+<a href="https://www.okayama-u.ac.jp/user/comets/" target="_blank">
+https://www.okayama-u.ac.jp/user/comets/
+</a><br><br>
+学士課程4年次に在籍。
+</div>
+
+<div class="lab-box">
+<b>東京大学 大気海洋研究所（鈴木健太郎 教授）</b><br>
+<a href="http://157.82.240.167" target="_blank">
+http://157.82.240.167
+</a><br><br>
+修士課程から在籍。
+</div>
+
+<div class="lab-box">
+<b>国立研究開発法人 宇宙航空研究開発機構（JAXA）</b><br>
+<a href="https://www.jaxa.jp/" target="_blank">
+https://www.jaxa.jp/
+</a><br><br>
+2024年度入構。
+</div>
+
+</div>
+
+</body>
+</html>
