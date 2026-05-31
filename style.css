@@ -83,6 +83,47 @@ a {
 a:hover {
     text-decoration: underline;
 }
-</style>
 
+.container {
+    max-width: 1100px;
+    margin: 40px auto;
+    background: rgba(255,255,255,0.95);
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: #0077b6;
+}
+
+.container h2 {
+    border-left: 8px solid #0077b6;
+    padding-left: 15px;
+    color: #0077b6;
+    margin-top: 40px;
+}
+
+.timeline {
+    list-style: none;
+    padding: 0;
+}
+
+.timeline li {
+    margin-bottom: 18px;
+    line-height: 1.8;
+}
+
+.period {
+    font-weight: bold;
+    color: #0077b6;
+}
+
+.lab-box {
+    background: #f4f9fc;
+    border-left: 6px solid #0077b6;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
 
