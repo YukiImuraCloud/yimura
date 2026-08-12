@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Presentations</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<nav>
+<ul class="menu">
+<li><a href="index.html">Home</a></li>
+<li><a href="career.html">経歴</a></li>
+<li><a href="publications.html">出版物</a></li>
+<li><a href="presentations.html">発表</a></li>
+<li><a href="awards.html">受賞歴・資格</a></li>
+<li><a href="others.html">その他</a></li>
+<li style="margin-left:40px;">
+<a href="presentations_en.html">日本語</a>
+</li>
+</ul>
+</nav>
+
+<div class="container">
+
+<h1>Presentations</h1>
+
+<h2>International Conferences, Meetings, and Workshops</h2>
+
+<ul class="publication-list">
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+Maruyama, K., N. Tomiyama, K. Haze, <span class="me">Y. Imura</span>, and H. Nakatsuka:
+EarthCARE/CPR mission status, performance and lessons learned.
+SPIE Asia-Pacific Remote Sensing,
+Yokohama, Japan, November 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+Muto, M., M. Kikuchi, <span class="me">Y. Imura</span>, H. Hotta, S. Aoki, and T. Kubota:
+An overview of EarthCARE JAXA Cloud Products: From level-2 retrievals to global level-3 climatologies.
+International Cloud Working Group (ICWG),
+Seoul, Korea, October 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+<span class="me">Imura, Y.</span>, H. Hotta, T. Kubota, M. Kikuchi, M. Muto, and S. Aoki:
+EarthCARE-based model evaluation activities in Japan and development of a level-3 gridded product.
+Cloud Feedback Model Intercomparison Project (CFMIP),
+Taipei, Taiwan, October 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+Kikuchi, M., <span class="me">Y. Imura</span>, H. Hotta, M. Muto, S. Aoki, and T. Kubota:
+EarthCARE satellite: Mission overview and scientific highlights from the first two years.
+Cloud Feedback Model Intercomparison Project (CFMIP),
+Taipei, Taiwan, October 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+Kitamoto, T., T. Nio, K. Araragi, G. Kikuchi, K. Maruyama, N. Tomiyama, H. Nakatsuka, K. Kanae, <span class="me">Y. Imura</span>, T. Kubota, S. Aoki, M. Muto, Y. Ohno, H. Horie, and K. Sato:
+SPIE 2026,
+Edinburgh, UK, October 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+Kikuchi, M., <span class="me">Y. Imura</span>, H. Hotta, M. Muto, S. Aoki, and T. Kubota:
+EarthCARE level-3: A new observational constraint on cloud and convection processes.
+Cloud Feedback Model Intercomparison Project (CFMIP),
+Taipei, Taiwan, October 2026. (Poster presentation)
+</li>
+
+<li>
+Maruyama K., H. Nakatsuka, N. Tomiyama, and <span class="me">Y. Imura</span>:
+EarthCARE/CPR Mission Status.
+Asia Oceania Geosciences Society (AOGS),
+Fukuoka, Japan, August 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, H. Nakatsuka, K. Maruyama, N. Tomiyama, F. Ewald, and S. Groß:
+Validation of CPR radar reflectivity and Doppler velocity with HALO aircraft observations.
+EarthCARE Science and Validation Workshop 2026,
+Oxford, UK, June 2026. (Poster presentation)
+</li>
+
+<li>
+Hotta, H., M. Kikuchi, S. Aoki, <span class="me">Y. Imura</span>, M. Muto, and T. Kubota:
+Development of EarthCARE JAXA gridded products for evaluations of weather/climate models.
+EarthCARE Science and Validation Workshop 2026,
+Oxford, UK, June 2026. (Poster presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, H. Nakatsuka, Y. Ohno, and H. Okamoto:
+Impact of three observation modes on Doppler velocity measurement accuracy of EarthCARE/CPR.
+JpGU-AGU Joint Meeting 2026,
+Chiba, Japan, May 2026. (Poster presentation)
+</li>
+
+<li>
+Maruyama, K., N. Tomiyama, <span class="me">Y. Imura</span>, and H. Nakatsuka:
+EarthCARE/CPR mission status.
+JpGU-AGU Joint Meeting 2026,
+Chiba, Japan, May 2026. (Poster presentation)
+</li>
+
+<li>
+Kikuchi, M., M. Muto, S. Aoki, H. Hotta, <span class="me">Y. Imura</span>, and T. Kubota:
+Two years in orbit: EarthCARE scientific highlights.
+JpGU-AGU Joint Meeting 2026,
+Chiba, Japan, May 2026. (Oral presentation)
+</li>
+
+<li>
+Yamamoto, Y., K. Kanamaru, A. Yamauchi, T. Michibata, <span class="me">Y. Imura</span>:
+Introduction to the "Young Researchers' Liaison Group for Earth Observation Satellite Research":
+Activities and future challenges.
+JpGU-AGU Joint Meeting 2026,
+Chiba, Japan, May 2026. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, and H. Nakatsuka:
+Comprehensive Evaluation of the applicability of CPR sub-modes.
+EarthCARE Science and Validation Workshop 2025,
+Tokyo, Japan, December 2025. (Poster presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, H. Nakatsuka, K. Maruyama, N. Tomiyama,
+S. Aoki, T. Kubota, F. Ewald, and S. Gross:
+CPR L1b validation activities with DLR HALO/MIRA Doppler observations.
+EarthCARE Science and Validation Workshop 2025,
+Tokyo, Japan, December 2025. (Oral presentation)
+</li>
+
+<li>
+Tomiyama, N., E. Tomita, T. Nio, K. Maruyama, H. Nakatsuka, K. Haze, <span class="me">Y. Imura</span>, T. Kubota, S. Aoki, M. Muto, H. Horie, Y. Ohno, K. Sato:
+Observation status in orbit for first one year of the EarthCARE Cloud Profiling Radar.
+SPIE 2025,
+Madrid, Spain, September 2025. (Oral presentation)
+</li>
+
+<li>
+Nio, T., E. Tomita, K. Maruyama, H. Nakatsuka, N. Tomiyama, K. Araragi, S. Deguchi, and <span class="me">Y. Imura</span>:
+JAXA's EarthCARE Cloud Profiling Radar (CPR) Operations and Products for Enhanced Climate Observations.
+EUMETSAT Conference 2025,
+Lyon, France, September 2025. (Oral presentation)
+</li>
+
+<li>
+Nakatsuka, H., E. Tomita, T. Nio, K. Maruyama, N. Tomiyama, K. Haze, <span class="me">Y. Imura</span>, T. Kubota, S. Aoki, M. Muto, H. Horie, Y. Ohno, K. Sato:
+The EarthCARE Cloud Profiling Radar, Its Commissioning Results.
+41st International Conference on Radar Meteorology,
+Toronto, Canada, August 2025. (Oral presentation)
+</li>
+
+<li>
+Maruyama K., E. Tomita, H. Nakatsuka, N. Tomiyama, and <span class="me">Y. Imura</span>:
+Lessons Learned from EarthCARE/CPR development and In-orbit operations.
+IAF Space Systems Symposium,
+Sydney, Australia, August 2025. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, and H. Nakatsuka:
+Doppler velocity measured by the world's first spaceborne Doppler radar:
+Evaluation of observation modes in EarthCARE/CPR.
+IGARSS 2025,
+Brisbane, Australia, August 2025. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, and H. Nakatsuka:
+Analysis of Doppler accuracy across different observation modes of EarthCARE.
+Living Planet Symposium,
+Vienna, Austria, June 2025. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, and H. Nakatsuka:
+Comparison of Doppler velocity measurement across CPR observation modes.
+2nd ESA-JAXA EarthCARE In-Orbit Validation Workshop,
+Frascati, Italy, March 2025. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, S. Aoki, T. Kubota, and H. Nakatsuka:
+Comparison between CPR observation modes.
+1st ESA-JAXA EarthCARE In-Orbit Validation Workshop,
+Online, January 2025. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, E. Tomita, T. Nio, K. Okada, K. Maruyama, H. Nakatsuka, N. Tomiyama, Y. Aida, K. Haze, S. Ochiai, K. Konoue, T. Kubota, T. Tanaka, M. Muto, S. Aoki, H. Horie, Y. Ohno, and K. Sato:
+EarthCARE/CPR current conditions and preliminary results from scientific views.
+Asia-Pacific Remote Sensing (APRS),
+Kaohsiung, Taiwan, December 2024. (Oral presentation, Invited)
+</li>
+
+<li>
+Suzuki, K., <span class="me">Y. Imura</span>, T. M. Nagao, and Y. Nakamura:
+Satellite-based model constraint on cloud microphysical processes and its link to radiative forcing of aerosol-cloud interaction.
+US CLIVAR Micro2Macro Workshop,
+University of Wyoming, October 2024. (Oral presentation)
+</li>
+
+<li>
+Haze, K., E. Tomita, T. Nio, K. Okada, K. Maruyama, H. Nakatsuka, N. Tomiyama, Y. Aida, S. Ochiai, S. Konoue, <span class="me">Y. Imura</span>, T. Kubota, M. Muto, S. Aoki, H. Horie, Y. Ohno, and K. Sato:
+EarthCARE/CPR Pre-Launch Preparations and Post-Launch Status.
+SPIE 2024,
+Edinburgh, United Kingdom, September 2024. (Oral presentation)
+</li>
+
+<li>
+Suzuki, K., <span class="me">Y. Imura</span>, T. M. Nagao, and Y. Nakamura:
+Process-oriented model evaluation of cloud microphysics with implication for aerosol-cloud interaction.
+GEWEX Open Science Conference,
+Sapporo, Japan, July 2024. (Oral presentation)
+</li>
+
+<li>
+Suzuki, K., T. M. Nagao, and <span class="me">Y. Imura</span>:
+Multi-sensor satellite diagnostics of mixed-phase microphysical processes with possible application to model evaluations.
+AGU,
+San Francisco, USA, December 2023. (Oral presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, T. Michibata, and K. Suzuki:
+Evaluation of Arctic snowfall in MIROC with satellite observation and its link to cloud radiative effect.
+ICCP-GSRA Workshop 2023,
+Shizuoka, Japan, March 2023. (Poster presentation)
+</li>
+
+<li>
+<span class="me">Imura, Y.</span>, and K. Suzuki:
+Examination of Climate Impacts of INPs on Cloud-Precipitation-Radiation Interactions Using the MIROC6 GCM.
+University Allied Workshop on Climate and Extreme Weather,
+Chiba, Japan, June 2023. (Poster presentation)
+</li>
+
+<li>
+Michibata, T., <span class="me">Y. Imura</span>, H. Nakao, and K. Suzuki:
+Evaluation of cloud micro- and macrophysical properties in the MIROC6 with A-Train observations and COSP simulator.
+EarthCARE Workshop 2022,
+Online, February 2022. (Invited presentation)
+</li>
+
+<li>
+Michibata, T., <span class="me">Y. Imura</span>, H. Nakao, and K. Suzuki:
+How does the treatment of precipitation in a climate model improve the representation of aerosol-cloud interactions?
+Tri-MIPathlon-3 Workshop 2021,
+Online, December 2021. (Poster presentation)
+</li>
+
+<li>
+Michibata, T., and <span class="me">Y. Imura</span>:
+Revisiting an apples-to-apples comparison between model and observations using satellite simulator.
+CFMIP Meeting 2021,
+Online, September 2021. (Poster presentation)
+</li>
+
+</ul>
+
+
+<h2>Domestic Conferences, Meetings, and Workshops</h2>
+
+<ul class="publication-list">
+
+<li>
+<span class="status-scheduled">Scheduled</span>
+<span class="me">Yuki Imura</span>, T. Kubota, M. Kikuchi, M. Muto, and S. Aoki:
+Development status and future plans of the EarthCARE Level-3 products.
+Meteorological Society of Japan 2026 Autumn Meeting,
+October 2026.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, K. Maruyama, H. Nakatsuka, and N. Tomiyama:
+History and future perspectives of the EarthCARE project.
+3rd Young Researchers' Liaison Group for Earth Observation Satellite Research,
+December 23, 2025. (Invited presentation)
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, S. Aoki, T. Kubota, and H. Nakatsuka:
+Comparison of EarthCARE/CPR observation modes and evaluation of their applicability.
+Meteorological Society of Japan 2025 Autumn Meeting,
+November 7, 2025.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, K. Suzuki:
+Evaluation of the climatic impacts of ice nucleating particles using a satellite simulator.
+Joint Workshop on GPM and Satellite Simulators,
+Nagoya University, March 7, 2024.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, K. Suzuki:
+Analysis of the climatic impacts of ice nucleating particles using a climate model.
+Research Meeting on Aerosol, Cloud, and Precipitation,
+National Institute of Polar Research, February 14, 2024.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, K. Suzuki:
+Analysis of the impacts of ice nucleating particles on mixed-phase clouds and climate using the global climate model MIROC6.
+Meteorological Society of Japan 2023 Autumn Meeting,
+October 26, 2023.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>:
+Cross-disciplinary use of models, satellite data, and satellite simulators toward reducing uncertainties in ice-phase processes in clouds.
+Meteorological Society of Japan Summer Special Seminar,
+September 9, 2023.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>:
+Study of mixed-layer clouds through combined use of satellite observations and numerical models.
+Young Researchers' Liaison Group for Earth Observation Satellite Research,
+September 5, 2023.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, K. Suzuki:
+Analysis of the cloud, precipitation, and radiative impacts of INPs in MIROC6.
+Research Meeting on Aerosol, Cloud, and Precipitation,
+March 17, 2023.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, T. Michibata, K. Suzuki:
+Analysis of cloud, precipitation, and radiative interactions in the Arctic region in the global climate model MIROC6.
+Meteorological Society of Japan 2022 Autumn Meeting,
+October 26, 2022.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, T. Michibata, K. Suzuki:
+Evaluation of cloud and precipitation processes in the Arctic region of the MIROC6 precipitation-prediction model.
+Meteorological Society of Japan Summer Special Seminar,
+September 10, 2022.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, T. Michibata:
+Analysis of cloud and precipitation processes in the Arctic region using a satellite simulator.
+Research Meeting on Aerosol, Cloud, and Precipitation Interactions,
+February 22, 2022.
+</li>
+
+<li>
+<span class="me">Yuki Imura</span>, T. Michibata:
+Diagnosis of cloud and precipitation processes in the Arctic region in the global climate model MIROC6.
+Meteorological Society of Japan Kansai Branch 2021 3rd Regular Meeting (Chugoku District),
+December 27, 2021.
+</li>
+
+</ul>
+
+</div>
+
+<footer>
+<p>Last updated: August 12, 2026</p>
+</footer>
+
+</body>
+</html>
