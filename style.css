@@ -226,6 +226,18 @@ a:hover {
     font-weight: bold;
 }
 
+.status-scheduled {
+    display: inline-block;
+    margin-right: 8px;
+    padding: 3px 8px;
+    background: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffe69c;
+    border-radius: 5px;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
 .award-list {
     list-style: none;
     padding: 0;
