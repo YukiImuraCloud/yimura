@@ -264,3 +264,5 @@ a:hover {
     border-radius: 12px;
     box-shadow: 0 3px 12px rgba(0,0,0,0.08);
 }
+
+footer { text-align: center; margin: 40px 0 20px; color: #777; font-size: 0.85em; }
